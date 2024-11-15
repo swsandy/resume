@@ -1,0 +1,30 @@
+Git Lab
+
+login GitLab
+create project(sample)
+create repo/project
+copy url
+git clone <url>
+
+cd sampal
+ls
+git branch branch1
+git checkout branch1
+ls
+touch demo.txt
+ls
+git checkout master
+ls
+git checkout branch1
+git add.
+git commit -m "first commit"
+ls
+git checkout master
+
+git push origin bronch1
+
+git checkout master
+ls
+git pull origin master
+
+open GitLab request merge
