@@ -1,0 +1,48 @@
+Bitbucket login 
+create repository→
+click on clone (copy the URL) paste the w
+
+on Terminal Password 
+How to create password-
+
+Setting Personal Bitbucket Settings App p
+
+→ create app password copy id paste
+
+Terminal suppose teponame a demo)
+
+Goto Terminal paste <url>
+
+cd demo
+
+touch sampal.txt 
+
+git add.
+
+git commit -m "first commit"
+
+git status
+
+git branch branch 1
+
+git checkout branch 1
+
+git status
+
+touch sampal2.txt
+
+git add.
+
+git commit -m "second commit"
+
+git status.
+
+ls
+
+git push origin branch1
+
+Go to bitbucket
+
+create pull request -> merge
+
+git pull origin main
